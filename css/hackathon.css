@@ -129,7 +129,7 @@ hr{
 /*浮動式選單*/
 .top-bar{
      position:fixed;
-     width: 100%;
+     width: 1024px;
      top: -650px;
      
      /* CSS3 陰影*/
