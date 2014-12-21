@@ -94,7 +94,7 @@ body{
 div{
     text-align:center ;
     /*padding: 1%; */
-   overflow: auto;
+   overflow: hidden;
 }
 p{
     font-family:"微軟正黑體","Microsoft JhengHei","標楷體","DFKai-sb",serif;
@@ -131,7 +131,7 @@ hr{
      position:fixed;
      width: 1024px;
      top: -650px;
-     
+     z-index: 1;
      /* CSS3 陰影*/
  
 }
