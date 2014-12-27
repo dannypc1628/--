@@ -49,7 +49,7 @@ body { font-family: sans-serif; }
 }
 
 .item:hover {
-  background: #7B0594;
-  border-color: #7B0594;
+  background-color:   #00A800;
+  border-color: #00A800;
   cursor: pointer;
 }
